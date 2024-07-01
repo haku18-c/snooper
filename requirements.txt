@@ -1,0 +1,4 @@
+prettytable
+nmap3
+paramiko
+ftplib
